@@ -3,7 +3,7 @@
 <h3>NAME: JEGATHEESWARI R</h3>
 <h3>REGISTER NO: 212223230092/h3>
 <h3>EX. NO: 02</h3>
-<h3>DATE: </h3>
+<h3>DATE:25/09/2025 </h3>
 <h2>AIM:</h2>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
